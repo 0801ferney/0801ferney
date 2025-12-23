@@ -2,7 +2,7 @@
 
 # 👨‍💻 Yimer Ferney González Durán
 
-### 💻 Desarrollador Junior | 🛠️ Soporte Técnico
+### 🛠️ Mesa de Ayuda | 💻 Soporte Técnico
 
 📍 Bogotá, Colombia  
 
@@ -12,8 +12,8 @@
 
 ## ✨ Sobre mí
 
-Tecnólogo en **Desarrollo de Software en formación** y **Técnico Profesional en Programación de Sistemas de Información**, con experiencia en **mesa de ayuda**, **soporte técnico** y **desarrollo web básico**.  
-Me caracterizo por mi responsabilidad, pensamiento analítico y ganas constantes de aprender.
+Tecnólogo en **Desarrollo de Software en formación** y **Técnico Profesional en Programación de Sistemas de Información**, con experiencia en **mesa de ayuda**, **soporte técnico** y **atención al usuario**.  
+Me caracterizo por mi responsabilidad, pensamiento analítico y actitud de servicio.
 
 ---
 
@@ -36,10 +36,10 @@ Me caracterizo por mi responsabilidad, pensamiento analítico y ganas constantes
 📍 WOM Colombia – Partners Telecom  
 🗓️ *Enero 2024 – Junio 2024*
 
-- Soporte a usuarios internos y clientes  
-- Gestión de tickets y atención de incidencias  
-- Diagnóstico de fallas de red y telecomunicaciones  
-- Configuración de equipos y routers  
+- Atención y soporte a usuarios internos y clientes  
+- Gestión y seguimiento de tickets  
+- Diagnóstico de fallas de red, internet y telefonía  
+- Configuración e instalación de equipos y routers  
 
 ---
 
@@ -62,7 +62,7 @@ TEINCO
 
 ## 🎯 Objetivo
 
-Iniciar mi carrera profesional como **Desarrollador Junior**, aportando mis conocimientos en desarrollo web y soporte técnico, mientras continúo fortaleciendo mis habilidades.
+Desempeñarme en el área de **Mesa de Ayuda / Soporte Técnico**, brindando soluciones eficientes a los usuarios y fortaleciendo mis habilidades técnicas y profesionales.
 
 ---
 
